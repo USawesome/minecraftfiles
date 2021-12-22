@@ -9,4 +9,4 @@ All you have to do is head over to the releases tab on the right and download th
 
 # Wanna download EVERYTHING?
 
-If you want, you can bulk-download all the files. To do this, you need to head to releases > latest release > "Source Code (zip)".
+If you want, you can bulk-download all the files. To do this, you need to head to code > download zip.
