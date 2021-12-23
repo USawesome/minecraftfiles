@@ -1,12 +1,11 @@
-# What's here?
+# NicoFruit
+Minecraft V 1.8 - 1.8.9
 
-This repository contains resource packs, mods, and more. I will make my own files, or I'll link another's.
+# Bubblegum Overlay
+Minecraft V 1.8 - 1.8.9
 
-# How do I download these files?
+# US PVP
+Minecraft V 1.8 - 1.8.9
 
-Its simple!
-All you have to do is head over to the releases tab on the right and download the release of whatever file you were looking for. There will be a big blue link saying "Downlaod A Zip" or "Download A .jar file". The other way is to simply head to the main page and open the file. Then click "Download"
-
-# Wanna download EVERYTHING?
-
-If you want, you can bulk-download all the files. To do this, you need to head to code > download zip.
+# US SMP
+Minecraft V 1.18 - 1.18.1
